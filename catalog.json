@@ -5,6 +5,12 @@
       "tag": "fw-v0.1.0",
       "visible": true,
       "channel": "beta"
+    },
+    {
+      "tag": "fw-v0.1.1",
+      "visible": true,
+      "channel": "beta",
+      "description": "\u043F\u043E\u0441\u0442\u0435\u043F\u0435\u043D\u043D\u043E \u0442\u0435\u0441\u0442\u0438\u0440\u0443\u044E \u0438 \u0438\u0441\u043F\u0440\u0430\u0432\u043B\u044F\u044E \u043E\u0448\u0438\u0431\u043A\u0438"
     }
   ]
 }
