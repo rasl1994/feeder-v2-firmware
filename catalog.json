@@ -1,4 +1,10 @@
 {
   "schema_version": 1,
-  "releases": []
+  "releases": [
+    {
+      "tag": "fw-v0.1.0",
+      "visible": true,
+      "channel": "beta"
+    }
+  ]
 }
